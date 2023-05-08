@@ -13,12 +13,13 @@ La solución propuesta consiste en diseñar y desarrollar un avatar robótico so
 
 ## Uso:
 
-Actualmente solo estan implementadas las funciones basicas (motores, leds), Ejecutando el archovo Main.py con el comendo "python Main.py" se ejecutara una equeña demostración. En un futuro se debera implementar una aplicación movil con la capacidad de conectarse, enviar y recibir informacion del robot.
+Actualmente solo están implementadas las funciones básicas (motores, leds). Ejecutando el archivo Main.py con el comando "python Main.py" se ejecutará una pequeña demostración. En un futuro se deberá implementar una aplicación móvil con la capacidad de conectarse, enviar y recibir información del robot.
 
 
 ## Estructura del proyecto:
 
-El proyecto se dibide en dos carpetas principales, la primera es la carpeta de Codigos, y la otra es la parpeta con los modelos 3d, las diferentes versiones y los archivos stl de cada pieza por separado.
+El proyecto se divide en dos carpetas principales, la primera es la carpeta de Códigos, y la otra es la carpeta con los modelos 3d, las diferentes versiones y los archivos stl de cada pieza por separado.
+El cdigo Main es el principal y es el que se encarga de llamar a las clases de los otros códigos.
 
 
 ## Créditos:
