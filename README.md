@@ -24,4 +24,5 @@ El proyecto se dibide en dos carpetas principales, la primera es la carpeta de C
 ## Créditos:
 
 Programación, modelado 3d, montaje - Alfonso Núñez Ferreiro
+
 Diseño, Asistente estético - Manuel Anxo Núñez Ferreiro
