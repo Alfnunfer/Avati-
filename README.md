@@ -27,3 +27,8 @@ El cdigo Main es el principal y es el que se encarga de llamar a las clases de l
 Programación, Modelado 3d, Montaje - Alfonso Núñez Ferreiro
 
 Diseño, Asistente estético - Manuel Anxo Núñez Ferreiro
+
+Proyecto propuesto por el departemento de e-learning del CESGA
+
+Proyecto basado en el proyecto ABILITI:
+https://abiliti.eu/resources/
