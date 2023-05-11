@@ -15,7 +15,7 @@ La solución propuesta consiste en diseñar y desarrollar un avatar robótico so
 
 Actualmente solo están implementadas las funciones básicas (motores, leds). Ejecutando el archivo Main.py con el comando "python Main.py" se ejecutará una pequeña demostración. En un futuro se deberá implementar una aplicación móvil con la capacidad de conectarse, enviar y recibir información del robot.
 
-Actualmente el código Main se ejecuta automáticamente nada más encender el robot, si esto se quisiese cambiar solo haría falta ir al archivo en el directorio "/etc/rc.local" y modificar la linea "python /home/username/Desktop/Main.py &"
+Actualmente el código Main y Servidor2 se ejecuta automáticamente nada más encender el robot, si esto se quisiese cambiar solo haría falta ir al archivo en el directorio "/etc/rc.local" y modificar la linea "python /home/username/Desktop/Main.py &" y "python /home/username/Desktop/CodigoExtra/Servidor2.py &"
 
 
 ## Estructura del proyecto:
