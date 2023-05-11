@@ -17,6 +17,8 @@ Actualmente solo están implementadas las funciones básicas (motores, leds). Ej
 
 Actualmente el código Main y Servidor2 se ejecuta automáticamente nada más encender el robot, si esto se quisiese cambiar solo haría falta ir al archivo en el directorio "/etc/rc.local" y modificar la linea "python /home/username/Desktop/Main.py &" y "python /home/username/Desktop/CodigoExtra/Servidor2.py &"
 
+Pra editar los codigo se puede usar el comando "sudo nano rc.local"
+
 
 ## Estructura del proyecto:
 
