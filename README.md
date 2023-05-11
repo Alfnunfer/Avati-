@@ -19,7 +19,14 @@ Actualmente solo están implementadas las funciones básicas (motores, leds). Ej
 ## Estructura del proyecto:
 
 El proyecto se divide en dos carpetas principales, la primera es la carpeta de Códigos, y la otra es la carpeta con los modelos 3d, las diferentes versiones y los archivos stl de cada pieza por separado.
-El cdigo Main es el principal y es el que se encarga de llamar a las clases de los otros códigos.
+El código Main es el principal y es el que se encarga de llamar a las clases de los otros códigos.
+
+
+## Mejoras Futuras:
+
+Añadir la aplicación móvil que se conecte con el robot.
+
+Modificas los modelos 3d para añadir huecos para camara, altavoz, microfono y led de estado.
 
 
 ## Créditos:
