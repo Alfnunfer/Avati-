@@ -20,6 +20,15 @@ Actualmente el código Main y Servidor2 se ejecuta automáticamente nada más en
 Pra editar los codigo se puede usar el comando "sudo nano rc.local"
 
 
+## Conexión electrica:
+
+A contuniación se muestra el esquema de conexión de los elementos.
+
+No encontre el mismo modelo de la matriz led real, el modelo en el esquema tiene un pin extra.
+
+![image](https://github.com/Alfnunfer/Avati-/assets/61046182/6d983c73-6066-48da-944a-8fb766632074)
+
+
 ## Estructura del proyecto:
 
 El proyecto se divide en dos carpetas principales, la primera es la carpeta de Códigos, y la otra es la carpeta con los modelos 3d, las diferentes versiones y los archivos stl de cada pieza por separado.
